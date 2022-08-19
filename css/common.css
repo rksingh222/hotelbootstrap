@@ -1,0 +1,15 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.h-font {
+    font-family: 'Merienda', cursive;
+}
+
+.custom-btn {
+    background: #04AA6D;
+}
+
+.custom-btn:hover {
+    background: #46a049;
+}
