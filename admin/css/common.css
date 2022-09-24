@@ -24,5 +24,10 @@
     background: var(--teal-hover);
 }
 
+.custom-alert{
+    position: fixed;
+    top:80px;
+    right: 100px;
+}
 
 
